@@ -1,1 +1,2 @@
-# alu-shell - Sat Sep 26 16:50:36 SAST 2026
+alu-shell
+This project covers I/O redirections
